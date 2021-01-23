@@ -1,0 +1,2 @@
+# eijiro-webapp
+Dictionary application
